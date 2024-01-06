@@ -2,7 +2,7 @@ import.java.util.com
   
 public class vamshi{
 
-   public static main(string [] args){
+   public static void main(string [] args){
 
    system.out.println("vamshi");
    }
